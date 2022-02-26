@@ -4,7 +4,7 @@ This is a database for a hypothetical mechanic shop built using SQL and Java.
 
 The purpose of the database is to identify relations between mechanic shops and customers and to pull up information for an array of different items such as: customers. service requests, cars, mechanics, car ownership and billing info. 
 
-The following functions were implemented into the database: AddCustomer, AdDmECHANIC, aDDcAR, InitiateServiceRequest, CloseServiceRequest, ListCustomersWithBillsLessThanHundred, ListCustomersWithMoreThanTwentyCars, ListCarsBefore1995With50000Miles, ListKCarsWithMostServices, ListCustomersInDescendingOrder, Exit.
+The following functions were implemented into the database: AddCustomer, AddMechanic, AddCar, InitiateServiceRequest, CloseServiceRequest, ListCustomersWithBillsLessThanHundred, ListCustomersWithMoreThanTwentyCars, ListCarsBefore1995With50000Miles, ListKCarsWithMostServices, ListCustomersInDescendingOrder, Exit.
 
 ![diagram](https://user-images.githubusercontent.com/57507406/155856778-e0ed6be2-f9f7-47f5-8ae1-32f98f605f6c.png)
 
