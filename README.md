@@ -6,7 +6,7 @@ The purpose of the database is to identify relations between mechanic shops and 
 
 ![diagram](https://user-images.githubusercontent.com/57507406/155856778-e0ed6be2-f9f7-47f5-8ae1-32f98f605f6c.png)
 
-![mechanicdatabase](https://user-images.githubusercontent.com/57507406/155856961-7ae84b03-2f12-450c-aeb3-f5dfb74e0c73.png)
+![mechanicdatabase](https://user-images.githubusercontent.com/57507406/155857018-a0af94be-ae06-427b-a0f7-c10ce9ce3f2e.png)
 
 ![result](https://user-images.githubusercontent.com/57507406/155856783-ac0ef83a-e054-4e68-a351-e3c4ee80efdc.png)
 
