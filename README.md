@@ -1,4 +1,4 @@
-# SQL_CS166_Final_Project
+# SQL: CS166 Final Project - Mechanic Shop Database 
 
 This is a database for a hypothetical mechanic shop built using SQL and Java. 
 
