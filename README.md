@@ -16,3 +16,4 @@ The following functions were implemented into the database: AddCustomer, AddMech
 
 ![Screenshot_61](https://user-images.githubusercontent.com/57507406/155856785-06f55047-5b7a-4d39-ad4f-5c914fee383a.png)
 
+ 
